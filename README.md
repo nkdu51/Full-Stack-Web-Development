@@ -1,4 +1,4 @@
-# Beginner Web Development
+# Example web 1
 Deployed at: http://beginner1.surge.sh/
              http://beginner2.surge.sh/
 ![](PreviewImage/beginner2-1.png)
@@ -15,6 +15,6 @@ Deployed at:  http://beginner3.surge.sh/
 Deployed at: http://loginportal.surge.sh/
 ![](PreviewImage/fourthwebsite.png)
 
-# Example web
+# Example web 2
 Deployed at: http://fifthwebsite.surge.sh/
 ![](PreviewImage/)
